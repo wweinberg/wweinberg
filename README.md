@@ -1,4 +1,4 @@
-**William Weinberg GitHub**
+*William Weinberg GitHub*
 
 
 *Love losing the forest for the trees*
