@@ -1,6 +1,6 @@
 **William Weinberg GitHub**
 
-*$${\color{red} Love\ losing the forest for the trees\space}$$*
+*$${\color{red} Love losing the forest for the trees\space}$$*
 
 Ph.D. student at Montana State University, 
 
