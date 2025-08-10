@@ -1,7 +1,7 @@
 **William Weinberg GitHub**
 
-$${\color{red} Love \space losing \space the \space forest \space for \space the \space trees \space }$$
+*$${\color{green} Losing the forest for the trees \space }$$*
 
 Ph.D. student at Montana State University, 
 
-
+$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
